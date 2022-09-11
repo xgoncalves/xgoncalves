@@ -18,5 +18,5 @@ I love creating interfaces from scratch to production and being always present a
 
 <br/>
 
-### 📔 &nbsp; Check my portfolio on [Behance](www.behance/xgoncalves/)
-### 💬 &nbsp; Feel free to connect on [Linkedin](www.linkedin.com/in/xgoncalves/)
+### 📔 &nbsp; Check my portfolio on [Behance](https://www.behance.net/xaviergoncalves)
+### 💬 &nbsp; Feel free to connect on [Linkedin](https://www.linkedin.com/in/xavier-goncalves/)
