@@ -1,6 +1,6 @@
-# 👋 &nbsp;Hi, I am Xavier 
+# 👋 &nbsp;Hi, I'm Xavier 
 
-I'm a senior product designer at [Linkare](https://linkare.com/). <br/>
+I'm a product designer at [Linkare](https://linkare.com/). <br/>
 I love creating interfaces from scratch to production and being always present at every step of the project – designing, coding, testing, communicating, managing, presenting to stakeholders, ... – this allows me to ensure that the final product offers the most effective experience to the users.
 
 <br/>
