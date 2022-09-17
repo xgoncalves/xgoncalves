@@ -1,6 +1,5 @@
-# 👋 &nbsp;Hi, I'm Xavier 
+# 👋 &nbsp;Hi, I'm Xavier, a product designer at [Linkare](https://linkare.com/)
 
-I'm a product designer at [Linkare](https://linkare.com/). <br/>
 I am passionate about creating user interfaces from scratch to production and being present at every step of the project:
 · user research
 · designing
