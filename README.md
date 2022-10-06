@@ -7,7 +7,7 @@ I am passionate about creating user interfaces from scratch to production and be
 <br/> · testing
 <br/> · analyzing
 <br/> · communicating
-<br/> this allows me to ensure that the final product offers the most effective user experience.
+<br/> ensuring that the final product offers an effective user experience.
 
 <br/>
 
