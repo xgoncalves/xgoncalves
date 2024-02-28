@@ -1,6 +1,7 @@
 # 👋 &nbsp;Hello, I'm Xavier, a product designer at [Linkare](https://linkare.com/)
 
-I am deeply passionate about guiding user interface projects from inception to production. Throughout every stage, from user research and design to coding, testing, analysis, and communication, I am actively engaged. <br/> 
+I am deeply passionate about guiding user interface projects from inception to production. <br/> 
+Throughout every stage, from user research and design to coding, testing, analysis, and communication, I am actively engaged. <br/> 
 My goal is to ensure that the final product delivers an exceptional user experience.
 
 <br/>
