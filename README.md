@@ -19,5 +19,5 @@ My goal is to ensure that the final product delivers an exceptional user experie
 
 <br/>
 
-### 📔 &nbsp; Check my portfolio on [Behance](https://www.behance.net/xaviergoncalves)
-### 💬 &nbsp; Feel free to connect on [Linkedin](https://www.linkedin.com/in/xavier-goncalves/)
+### 🧑‍🚀 &nbsp; [Download my CV](https://www.behance.net/xaviergoncalves](https://xgoncalves.github.io/resources/XavierGoncalves-CV.pdf)
+### 🚀 &nbsp; [Connect on Linkedin](https://www.linkedin.com/in/xavier-goncalves/)
